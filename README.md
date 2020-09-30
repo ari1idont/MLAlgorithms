@@ -8,5 +8,5 @@ machine learning algorithms implementation
 ```sh
 git clone https://github.com/parth222/MLAlgorithms 
 cd MLAlgorithms
-pip install -r requirenent.txt
+pip install -r requirement.txt
 ```
