@@ -6,12 +6,11 @@ machine learning algorithms implementation
 * [ ] Logistic regression
 * [ ] Random Forests
 * [ ] Support vector machine (SVM) with kernels (Linear, Poly, RBF)
-* [ ] [K-Means]
+* [ ] K-Means
 * [ ] Gaussian Mixture Model
 * [ ] K-nearest neighbors
-* [ ] Naive bayes]
+* [ ] Naive bayes
 * [ ] Principal component analysis (PCA)
-* [ ] Factorization machines]
 * [ ] Restricted Boltzmann machine (RBM)
 * [ ] t-Distributed Stochastic Neighbor Embedding (t-SNE)
 * [ ] Gradient Boosting trees (also known as GBDT, GBRT, GBM, XGBoost)
