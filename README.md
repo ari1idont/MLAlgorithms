@@ -2,13 +2,13 @@
 machine learning algorithms implementation
 
 ### Implemented: ###
-* [ ] Linear regression
+* [x] Linear regression
 * [ ] Logistic regression
 * [ ] Random Forests
 * [ ] Support vector machine (SVM) with kernels (Linear, Poly, RBF)
-* [ ] K-Means
+* [x] K-Means
 * [ ] K-nearest neighbors
-* [ ] Naive bayes
+* [x] Naive bayes
 * [ ] Principal component analysis (PCA)
 * [ ] Restricted Boltzmann machine (RBM)
 * [ ] t-Distributed Stochastic Neighbor Embedding (t-SNE)
