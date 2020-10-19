@@ -7,7 +7,7 @@ machine learning algorithms implementation
 * [ ] Random Forests
 * [ ] Support vector machine (SVM) with kernels (Linear, Poly, RBF)
 * [x] K-Means
-* [ ] K-nearest neighbors
+* [x] K-nearest neighbors
 * [x] Naive bayes
 * [ ] Principal component analysis (PCA)
 * [ ] Restricted Boltzmann machine (RBM)
